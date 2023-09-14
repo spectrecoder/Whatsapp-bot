@@ -35,7 +35,6 @@ and a bit more...
 4. Then just run the server with  ```python src/server.py```  
 
 # Or with Docker!
-$ git clone https://github.com/joaoricardo000/whatsapp-bot-seed/  
 $ cd whatsapp-bot-seed  
 *(Edit Dockerfile to include your credentials)*  
 $ docker build -t whatsapp-bot .  
